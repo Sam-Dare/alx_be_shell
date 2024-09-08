@@ -1,2 +1,1 @@
-This script switches the current user to betty.
-
+This repository contains Bash scripts focused on file permissions management in Unix-like operating systems. The scripts perform various tasks such as switching users (`0-iam_betty`), printing the current username (`1-who_am_i`), creating an empty file (`4-empty`), adding execute permissions (`5-execute`), modifying multiple permissions (`6-multiple_permissions`), and setting specific permissions for a file (`9-John_Doe`). To use these scripts, clone the repository, navigate to the `shell_permissions` directory, ensure the scripts are executable with `chmod +x`, and run them using `./script_name`.
